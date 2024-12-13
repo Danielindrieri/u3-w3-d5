@@ -1,0 +1,86 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+.remove{
+  display: block;
+  flex-direction: column;
+  margin-top: 1em;
+  
+}
+.sidebar{
+  display: flex;
+  height: 100%;
+  background-color: #252526;
+}
+.color1{
+  color: salmon ;
+  padding-right: 0.5em ;
+ 
+}
+.okok{
+ padding-right: 6em;
+ display: flex;
+ align-items: center;
+ color: white;
+ margin-bottom: 0.1rem;
+}
+.immagine{
+  text-align: left;
+}
+.container-fluid{
+  margin-left: 0.6em;
+  padding-right: 1em;
+padding-top: 1em;
+}
+.search-bar {
+  margin-bottom: 1em;
+}
+.light{
+  color: white;
+}
+.main1{
+  margin-left: 11.6em;
+  color: white;
+  padding-top: 1em;
+padding-left: 1em;
+background-color: #1E1E1E;
+}
+.stazione{
+  font-size: 0.6em;
+  display: block;
+}
+.testo{
+  font-size: 0.9em;
+  padding-bottom: 1em;
+}
+.bord{
+  border-bottom: 1px solid grey;
+}
+.piccolo{
+  font-size: 0.5em;
+}
+.mio{
+  margin-right: 2.5em;
+}
+.riduciamo{
+  margin-bottom: -30px;
+}
+.swift{
+  background-color: #1E1E1E;
+}
+.nascondi{
+padding-right: 3em
+}
+a{
+  text-decoration: none;
+}
